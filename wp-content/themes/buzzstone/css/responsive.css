@@ -4508,13 +4508,13 @@
 
   /* Body sizes */
   .content_wrap, .content_container {
-    width: 280px !important;
+    width: 300px !important;
   }
 
   /* Content and Sidebar */
   .menu_style_side .content_wrap,
   .menu_style_side .content_container {
-    width: 280px !important;
+    width: 300px !important;
   }
 
   .menu_style_side .menu_side_wrap {
