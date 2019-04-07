@@ -9527,7 +9527,7 @@ blockquote.sc_promo_text {
 
 .custom-logo-link img,
 .sc_layouts_logo img {
-  max-height: 6em;
+  max-height: 4em !important;
   width: auto; }
 
 .sc_layouts_logo .logo_text {

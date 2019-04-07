@@ -1,6 +1,6 @@
 /* theme style to reset wordpress backend */
 .gdlr-core-page-builder-body{ overflow: hidden; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-.gdlr-core-page-builder-body p{ margin-top: 0px; margin-bottom: 20px; font-size: inherit; }
+.gdlr-core-page-builder-body p{ margin-top: 0px; margin-bottom: 20px; font-size: inherit; color: #14292E }
 .gdlr-core-page-builder-body ul{ margin-top: 0px; }
 .gdlr-core-page-builder-body img{ max-width: 100%; height: auto; }
 .gdlr-core-page-builder-body a{ text-decoration: none;
@@ -929,7 +929,7 @@
 .gdlr-core-flexslider.flexslider ul.slides > li .gdlr-core-blog-grid{ margin-bottom: 0px; }
 .gdlr-core-blog-grid .gdlr-core-blog-thumbnail{ margin-bottom: 27px; }
 .gdlr-core-blog-grid .gdlr-core-blog-grid-date .gdlr-core-blog-info-date{ font-size: 12px; letter-spacing: 1.5px; margin-bottom: 7px; 
-	text-transform: uppercase; font-weight: 600; display: block; }
+	font-weight: 600; display: block; }
 .gdlr-core-blog-grid .gdlr-core-blog-grid-date .gdlr-core-blog-info-date .gdlr-core-head{ display: none; }
 .gdlr-core-blog-grid .gdlr-core-blog-title{ font-size: 25px; font-weight: 800; margin-bottom: 20px; }
 .gdlr-core-blog-grid .gdlr-core-blog-content{ margin-bottom: 30px; }

@@ -518,7 +518,7 @@ body.admin-bar .traveltour-fixed-navigation.traveltour-style-slide{ margin-top: 
 .traveltour-animate-fixed-navigation.traveltour-header-style-boxed.traveltour-style-splitted-menu .traveltour-navigation .sf-menu > li > a{ padding-top: 0px; }
 
 /* page title */
-.traveltour-page-title-wrap{ background-image: url('http://dulichmy.com/assets/images/page-title-background.jpg'); 
+.traveltour-page-title-wrap{ background-image: url(''); 
 	background-position: center; background-size: cover; position: relative; }
 .traveltour-page-title-wrap .traveltour-page-title-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; }
 .traveltour-page-title-wrap .traveltour-page-title-container{ position: relative; }
@@ -677,7 +677,7 @@ body.blog .traveltour-single-article{ padding-bottom: 60px; }
 .traveltour-comments-area .form-submit{ text-align: center; padding-top: 14px; }
 
 /* blog title */
-.traveltour-blog-title-wrap{ background-image: url('http://dulichmy.com/assets/images/page-title-background.jpg'); background-position: center; position: relative; background-size: cover; }
+.traveltour-blog-title-wrap{ background-image: url(''); background-position: center; position: relative; background-size: cover; }
 .traveltour-blog-title-wrap .traveltour-blog-title-container{ position: relative; }
 .traveltour-blog-title-wrap .traveltour-blog-title-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; }
 .traveltour-blog-title-wrap.traveltour-feature-image .traveltour-blog-title-top-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px;

@@ -104,12 +104,12 @@ body.traveltour-boxed.traveltour-background-pattern .traveltour-body-outer-wrapp
 .traveltour-footer-wrapper{ padding-bottom: 50px; } 
 .traveltour-copyright-text{ padding-top: 38px; } 
 .traveltour-copyright-text{ padding-bottom: 38px; } 
-.traveltour-body h1, .traveltour-body h2, .traveltour-body h3, .traveltour-body h4, .traveltour-body h5, .traveltour-body h6, .traveltour-body .traveltour-title-font,.traveltour-body .gdlr-core-title-font{ font-family: "Roboto", sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Roboto", sans-serif; } 
-.traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a, .traveltour-navigation-font{ font-family: "Roboto", sans-serif; } 
-.traveltour-body, .traveltour-body .gdlr-core-content-font, .traveltour-body input, .traveltour-body textarea, .traveltour-body button, .traveltour-body select, .traveltour-body .traveltour-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Roboto", sans-serif; } 
-.traveltour-body .gdlr-core-info-font, .traveltour-body .traveltour-info-font{ font-family: "Roboto", sans-serif; } 
-.traveltour-body .gdlr-core-blog-info-font, .traveltour-body .traveltour-blog-info-font{ font-family: "Roboto", sans-serif; } 
-.traveltour-body .gdlr-core-quote-font{ font-family: "Roboto", sans-serif; } 
+.traveltour-body h1, .traveltour-body h2, .traveltour-body h3, .traveltour-body h4, .traveltour-body h5, .traveltour-body h6, .traveltour-body .traveltour-title-font,.traveltour-body .gdlr-core-title-font{ font-family: 'K2D', sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Roboto", sans-serif; } 
+.traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a, .traveltour-navigation-font{ font-family: 'K2D', sans-serif; } 
+.traveltour-body, .traveltour-body .gdlr-core-content-font, .traveltour-body input, .traveltour-body textarea, .traveltour-body button, .traveltour-body select, .traveltour-body .traveltour-content-font, .gdlr-core-audio .mejs-container *{ font-family: 'K2D', sans-serif; } 
+.traveltour-body .gdlr-core-info-font, .traveltour-body .traveltour-info-font{ font-family: 'K2D', sans-serif; } 
+.traveltour-body .gdlr-core-blog-info-font, .traveltour-body .traveltour-blog-info-font{ font-family: 'K2D', sans-serif; } 
+.traveltour-body .gdlr-core-quote-font{ font-family: 'K2D', sans-serif; } 
 .traveltour-body h1{ font-size: 52px; } 
 .traveltour-body h2, #poststuff .gdlr-core-page-builder-body h2{ font-size: 48px; } 
 .traveltour-body h3{ font-size: 41px; } 
@@ -217,18 +217,18 @@ ul.gdlr-core-twitter-widget-wrap li .gdlr-core-twitter-widget-date a, ul.gdlr-co
 .traveltour-blog-title-wrap .traveltour-single-article-date-month{ color: #b1b1b1; } 
 .traveltour-blog-title-wrap .traveltour-single-article-date-wrapper{ border-color: #ffffff; } 
 .traveltour-blog-title-wrap .traveltour-blog-title-overlay{ background-color: #000000; } 
-.traveltour-single-author .traveltour-single-author-title a, .traveltour-single-author .traveltour-single-author-title a:hover{ color: #464646; } 
+.traveltour-single-author .traveltour-single-author-title a, .traveltour-single-author .traveltour-single-author-title a:hover{ color: #1D3E45; } 
 .traveltour-single-author .traveltour-single-author-caption{ color: #b1b1b1; } 
 .traveltour-single-nav a, .traveltour-single-nav a:hover{ color: #bcbcbc; } 
 .traveltour-comments-area .traveltour-comments-title, .traveltour-comments-area .comment-author, .traveltour-comments-area .comment-reply-title{ color: #464646; } 
 .traveltour-comments-area .comment-respond{ background-color: #f9f9f9; } 
 .traveltour-comments-area .comment-reply a, .traveltour-comments-area .comment-reply a:hover{ color: #bcbcbc; } 
 .traveltour-comments-area .comment-time a, .traveltour-comments-area .comment-time a:hover{ color: #b1b1b1; } 
-.gdlr-core-blog-title a, .traveltour-body .traveltour-single-article-title, .traveltour-body .traveltour-single-article-title a{ color: #343434; } 
+.gdlr-core-blog-title a, .traveltour-body .traveltour-single-article-title, .traveltour-body .traveltour-single-article-title a{ color: #1D3E45; } 
 .gdlr-core-blog-title a:hover, .traveltour-body .traveltour-single-article-title a:hover{ color: #343434; } 
 .gdlr-core-sticky-banner, .traveltour-sticky-banner{ color: #ffffff; } 
 .gdlr-core-sticky-banner, .traveltour-sticky-banner{ background-color: #03aecd; } 
-.traveltour-single-article .traveltour-blog-info-wrapper, .traveltour-single-article .traveltour-blog-info-wrapper a, .traveltour-single-article .traveltour-blog-info-wrapper a:hover, .gdlr-core-blog-info-wrapper, .gdlr-core-blog-info-wrapper a, .gdlr-core-blog-info-wrapper a:hover, .gdlr-core-blog-grid .gdlr-core-blog-info-date a{ color: #03aecd; } 
+.traveltour-single-article .traveltour-blog-info-wrapper, .traveltour-single-article .traveltour-blog-info-wrapper a, .traveltour-single-article .traveltour-blog-info-wrapper a:hover, .gdlr-core-blog-info-wrapper, .gdlr-core-blog-info-wrapper a, .gdlr-core-blog-info-wrapper a:hover, .gdlr-core-blog-grid .gdlr-core-blog-info-date a{ color: #49AC91 ; } 
 .traveltour-single-article .traveltour-blog-info-wrapper i, .gdlr-core-blog-info-wrapper i{ color: #9a9a9a; } 
 .gdlr-core-blog-date-wrapper .gdlr-core-blog-date-day, .traveltour-single-article .traveltour-single-article-date-day{ color: #353535; } 
 .gdlr-core-blog-date-wrapper .gdlr-core-blog-date-month, .traveltour-single-article .traveltour-single-article-date-month{ color: #8a8a8a; } 
@@ -386,7 +386,7 @@ table tr:nth-child(even){ color: #949494; }
 .gdlr-core-testimonial-item .gdlr-core-testimonial-position .gdlr-core-rating i{ color: #ffa127; } 
 .gdlr-core-testimonial-item .gdlr-core-testimonial-position{ color: #3b3b3b; } 
 .gdlr-core-testimonial-item .gdlr-core-testimonial-quote{ color: #282828; } 
-.gdlr-core-title-item .gdlr-core-title-item-title, .gdlr-core-title-item .gdlr-core-title-item-title a{ color: #383838; } 
+.gdlr-core-title-item .gdlr-core-title-item-title, .gdlr-core-title-item .gdlr-core-title-item-title a{ color: #1D3E45; } 
 .gdlr-core-title-item .gdlr-core-title-item-caption{ color: #747474; } 
 .woocommerce .star-rating span, .single-product.woocommerce #review_form #respond p.stars a, .single-product.woocommerce div.product .product_meta, .single-product.woocommerce div.product .product_meta a{ color: #467fe7; }.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, html .woocommerce input.button, html .woocommerce span.onsale{ background-color: #467fe7; } 
 span.woocommerce-Price-amount.amount{ color: #467fe7; } 
