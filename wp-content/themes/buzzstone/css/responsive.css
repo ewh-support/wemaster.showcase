@@ -3039,6 +3039,8 @@
   .page_content_wrap {
     padding-top: 40px;
     padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   /* Search */
@@ -4508,13 +4510,15 @@
 
   /* Body sizes */
   .content_wrap, .content_container {
-    width: 300px !important;
+    max-width: 480px !important;
+    width: 100% !important;
   }
 
   /* Content and Sidebar */
   .menu_style_side .content_wrap,
   .menu_style_side .content_container {
-    width: 300px !important;
+    max-width: 480px !important;
+    width: 100% !important;
   }
 
   .menu_style_side .menu_side_wrap {
