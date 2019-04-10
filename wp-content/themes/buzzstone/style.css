@@ -7988,7 +7988,7 @@ span.wpcf7-not-valid-tip {
 }
 
 .sc_layouts_menu_nav > li > ul {
-    top: 4.4em;
+    top: 3.4em;
     left: -1.6em;
     width: 15em;
     padding: 1.6em 0;
@@ -15528,7 +15528,7 @@ h1, h2, h3, h4, h5, h6{
     max-height: 3em !important;
 }
 .margin-block1{
-    margin-top: 89px;
+    margin-top: 54px;
 }
 .section--site-search{
     z-index: 9999;
@@ -15546,7 +15546,7 @@ h1, h2, h3, h4, h5, h6{
 .topAuto{
     -webkit-transition: .2s all;
     transition: .2s all;
-    top: 89px;
+    top: 54px;
 }
 .style-title-cate{
     text-align: center;
