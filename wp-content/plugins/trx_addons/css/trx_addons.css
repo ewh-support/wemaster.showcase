@@ -1331,7 +1331,7 @@ form .trx_addons_message_box {
 /* Magnific popup
 ----------------------------------------------------------------*/
 html {
-  overflow-y: scroll !important; }
+  overflow-y: scroll; }
 
 .mfp-bg {
   background: #fff; }

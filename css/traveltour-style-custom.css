@@ -42,7 +42,6 @@ body .gdlr-core-portfolio-grid .gdlr-core-portfolio-content-wrap .gdlr-core-port
 .traveltour-sidebar-area.gdlr-core-column-15 .gdlr-core-recent-post-widget.clearfix{ margin-bottom: 20px; }
 .traveltour-sidebar-area.gdlr-core-column-15 .tourmaster-tour-widget .tourmaster-thumbnail-ribbon { margin-bottom: 10px; }
 .traveltour-sidebar-area.gdlr-core-column-15 .tourmaster-tour-widget .tourmaster-tour-content-info.tourmaster-with-ribbon .tourmaster-tour-price-wrap{ float: left; }
-
 @media only screen and (max-width: 767px){
 .gdlr-core-title-item .gdlr-core-title-item-link,
 .gdlr-core-title-item.gdlr-core-left-align .gdlr-core-title-item-link{ display: block; margin-left: 0px; margin-top: 10px !important; }
@@ -104,12 +103,12 @@ body.traveltour-boxed.traveltour-background-pattern .traveltour-body-outer-wrapp
 .traveltour-footer-wrapper{ padding-bottom: 50px; } 
 .traveltour-copyright-text{ padding-top: 38px; } 
 .traveltour-copyright-text{ padding-bottom: 38px; } 
-.traveltour-body h1, .traveltour-body h2, .traveltour-body h3, .traveltour-body h4, .traveltour-body h5, .traveltour-body h6, .traveltour-body .traveltour-title-font,.traveltour-body .gdlr-core-title-font{ font-family: 'K2D', sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Roboto", sans-serif; } 
-.traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a, .traveltour-navigation-font{ font-family: 'K2D', sans-serif; } 
-.traveltour-body, .traveltour-body .gdlr-core-content-font, .traveltour-body input, .traveltour-body textarea, .traveltour-body button, .traveltour-body select, .traveltour-body .traveltour-content-font, .gdlr-core-audio .mejs-container *{ font-family: 'K2D', sans-serif; } 
-.traveltour-body .gdlr-core-info-font, .traveltour-body .traveltour-info-font{ font-family: 'K2D', sans-serif; } 
-.traveltour-body .gdlr-core-blog-info-font, .traveltour-body .traveltour-blog-info-font{ font-family: 'K2D', sans-serif; } 
-.traveltour-body .gdlr-core-quote-font{ font-family: 'K2D', sans-serif; } 
+.traveltour-body h1, .traveltour-body h2, .traveltour-body h3, .traveltour-body h4, .traveltour-body h5, .traveltour-body h6, .traveltour-body .traveltour-title-font,.traveltour-body .gdlr-core-title-font{ font-family: 'Roboto', sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Roboto", sans-serif; } 
+.traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a, .traveltour-navigation-font{ font-family: 'Roboto', sans-serif; } 
+.traveltour-body, .traveltour-body .gdlr-core-content-font, .traveltour-body input, .traveltour-body textarea, .traveltour-body button, .traveltour-body select, .traveltour-body .traveltour-content-font, .gdlr-core-audio .mejs-container *{ font-family: 'Roboto', sans-serif; } 
+.traveltour-body .gdlr-core-info-font, .traveltour-body .traveltour-info-font{ font-family: 'Roboto', sans-serif; } 
+.traveltour-body .gdlr-core-blog-info-font, .traveltour-body .traveltour-blog-info-font{ font-family: 'Roboto', sans-serif; } 
+.traveltour-body .gdlr-core-quote-font{ font-family: 'Roboto', sans-serif; } 
 .traveltour-body h1{ font-size: 52px; } 
 .traveltour-body h2, #poststuff .gdlr-core-page-builder-body h2{ font-size: 48px; } 
 .traveltour-body h3{ font-size: 41px; } 
@@ -119,7 +118,7 @@ body.traveltour-boxed.traveltour-background-pattern .traveltour-body-outer-wrapp
 .traveltour-navigation .sf-menu > li > a, .traveltour-navigation .sf-vertical > li > a{ font-size: 14px; } 
 .traveltour-navigation .sf-menu > li > a{ font-weight: 400; } 
 .traveltour-navigation .sf-menu > li > a{ text-transform: none; } 
-.traveltour-body{ font-size: 16px; } 
+.traveltour-body{ font-size: 17px; } 
 .traveltour-body, .traveltour-body p, .traveltour-line-height, .gdlr-core-line-height{ line-height: 1.7; } 
 .traveltour-page-preload{ background-color: #ffffff; } 
 .traveltour-top-bar-background{ background-color: #222222; } 

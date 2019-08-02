@@ -833,7 +833,7 @@
 .gdlr-core-social-share-item .gdlr-core-social-share-count .gdlr-core-count{ font-size: 23px; font-weight: bold; margin-right: 10px; }
 .gdlr-core-social-share-item .gdlr-core-social-share-count .gdlr-core-suffix{ font-size: 15px; text-transform: uppercase; letter-spacing: 1px; }
 
-.gdlr-core-social-share-left-text .gdlr-core-divider{ margin-right: 36px; margin-left: 30px;
+.gdlr-core-social-share-left-text .gdlr-core-divider{ margin-right: 30px; margin-left: 30px;
     height: 18px; border-right-width: 2px; border-right-style: solid; }
 .gdlr-core-social-share-right-text .gdlr-core-divider{ margin-right: 30px; margin-left: 36px;
     height: 18px; border-right-width: 2px; border-right-style: solid; }
@@ -1870,7 +1870,7 @@ body.ilightbox-noscroll{ overflow: auto; }
 	background-color: #f9f9f9; 
 	padding-bottom:0px;
 	border: 0;
-    padding-top: 20px;
+	padding: 0;
 }
 .style-gdlr-core-item-mgb{
 	margin-bottom: 20px !important;
